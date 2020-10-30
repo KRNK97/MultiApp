@@ -1,11 +1,11 @@
 # About The Program
 
-A python GUI program that allows user to [launch multiple apps with a single click](). The program allows for addition of upto [8]() apps and users can remove apps by giving the row number.
+A python GUI program that allows user to launch multiple apps with a single click. The program allows for addition of upto 8 apps and users can remove apps by giving the row number.
 
 
 ## Tools Used
 
-The application uses [tkinter]() library for GUI and a simple text-file for storing the apps.
+The application uses tkinter library for GUI and a simple text-file for storing the apps.
 
 
 ## Usage
